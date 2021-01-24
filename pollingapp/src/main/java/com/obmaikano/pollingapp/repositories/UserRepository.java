@@ -1,4 +1,4 @@
-package com.obmaikano.pollingapp.repository;
+package com.obmaikano.pollingapp.repositories;
 
 import java.util.List;
 import java.util.Optional;
